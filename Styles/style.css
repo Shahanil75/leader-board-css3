@@ -104,6 +104,11 @@ hr{
 .fa-star.empty{
     color:#AEAEAE;
 }
+.course-duration{
+   color: rgb(255, 255, 255);
+    background-color:rgb(228, 32, 65);
+    border-radius: 5px;
+}
 
 /*---------------------
 -Media-Queries-
